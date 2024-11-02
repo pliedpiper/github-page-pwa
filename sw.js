@@ -1,7 +1,7 @@
 // Service Worker Setup
 var GHPATH = '/github-page-pwa';
-var APP_PREFIX = 'gppwa_';
-var VERSION = 'version_006';
+var APP_PREFIX = 'GithubPagePWA_';
+var VERSION = 'version_009';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
