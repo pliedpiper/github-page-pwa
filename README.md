@@ -55,13 +55,13 @@ The `sw.js` file is the ServiceWorker that defines which of the files in your ap
 var GHPATH = '/github-page-pwa';
 
 // Choose a different app prefix name
-var APP_PREFIX = 'gppwa_';
+var APP_PREFIX = 'g_';
 
 // The version of the cache. Every time you change any of the files
 // you need to change this version (version_01, version_02…). 
 // If you don't change the version, the service worker will give your
 // users the old files!
-var VERSION = 'version_00';
+var VERSION = 'version_03';
 
 // The files to make available for offline use. make sure to add 
 // others to this list
